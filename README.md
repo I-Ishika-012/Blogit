@@ -1,0 +1,2 @@
+# Blogit
+MERN Blog Website
